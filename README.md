@@ -5,4 +5,4 @@
   2) you will find my asnwers to the questions in the book.
   
   
-  * my answers to the questions will be fully uploaded shortly...(working on them to be perfect examples and answers)... 
+  * my answers to the questions will be fully uploaded shortly.
