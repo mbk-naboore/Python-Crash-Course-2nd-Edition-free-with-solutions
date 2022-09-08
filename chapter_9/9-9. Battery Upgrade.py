@@ -72,6 +72,7 @@ my_tesla = ElectricCar('tesla', 'model s', 2019)
 # this will use the default 75 value (before upgrade):
 my_tesla.battery.get_range()
 
+# upgrading the battery value to be 100 if not already:
 my_tesla.battery.upgrade_battery()
 
 # this will use the 100 value (after upgrade):
