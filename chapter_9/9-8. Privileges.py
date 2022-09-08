@@ -32,7 +32,7 @@ class Admin(Users):
 
 
 class Privileges:
-    def __init(self):
+    def __init__(self):
         self.privileges = ["admin can add post", "admin can delete post", "admin can ban user"]
 
     def show_privileges(self):
