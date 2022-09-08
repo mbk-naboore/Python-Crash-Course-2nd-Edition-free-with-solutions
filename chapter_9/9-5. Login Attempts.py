@@ -36,4 +36,3 @@ print("---------------------------------------------------------------")
 
 print("\nI am going to reset the login attempts number:")
 print("the login attempts are now:\n\t\t", user1.reset_login_attempts())
-
