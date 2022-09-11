@@ -5,6 +5,6 @@
   2) you will find my asnwers to the questions in the book.
   3) each chapter has a file (chapter_x code used.txt) this file has the GitHub of the book author which has all the code that was used during the chapter...
   
-  * some questions might have a related files (other moduls, output files, etc) those are also uploaded either by using the same name of the python file or by using 
+  * some questions might have some related files (other moduls, outputed files, etc) those are also uploaded either by using the same name of the python file or by using 
   part_1, part_2, etc...
   
