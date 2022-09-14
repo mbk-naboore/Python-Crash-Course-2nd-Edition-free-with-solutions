@@ -16,7 +16,7 @@ def get_stored_username():
             username = json.load(f)
             return username
     except FileNotFoundError:
-        return None
+        return False
 
 
 def check_username(username):
