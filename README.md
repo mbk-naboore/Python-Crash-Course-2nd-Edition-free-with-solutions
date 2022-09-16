@@ -8,7 +8,8 @@
   * some questions might have some related files (other moduls, outputed files, etc) those are also uploaded either by using the same name of the python file or by using 
   part_1, part_2, etc...
   
-  The Book's Chapters:
+  
+# The Book's Chapters:
   * Chapter 1: Getting started
   * Chapter 2: Variables and simple data types
   * Chapter 3: Introducing lists
