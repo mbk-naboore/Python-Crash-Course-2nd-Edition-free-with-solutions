@@ -8,3 +8,15 @@
   * some questions might have some related files (other moduls, outputed files, etc) those are also uploaded either by using the same name of the python file or by using 
   part_1, part_2, etc...
   
+  The Book's Chapters:
+  * Chapter 1: Getting started
+  * Chapter 2: Variables and simple data types
+  * Chapter 3: Introducing lists
+  * Chapter 4: Working with lists
+  * Chapter 5: If statements
+  * Chapter 6: Dictionaries
+  * Chapter 7: User input and while loops
+  * Chapter 8: Functions
+  * Chapter 9: Classes
+  * Chapter 10: Files and exceptions
+  * Chapter 11: Testing your code
