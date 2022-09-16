@@ -9,7 +9,7 @@
   part_1, part_2, etc...
   
   
-# Part |:
+# Part I:
   * Chapter 1: Getting started
   * Chapter 2: Variables and simple data types
   * Chapter 3: Introducing lists
