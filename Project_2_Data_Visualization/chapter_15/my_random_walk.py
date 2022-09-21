@@ -6,7 +6,7 @@ from random import choice
  and enjoying some of the created patterns."""
 
 """ To have an infinity loop and each time you close the matplotlib
-window another is created you can comment the lines (72-73-74), but be aware
+window another is created you can comment (the last three lines), but be aware
 that in order to stop the loop you have to kill the code yourself..."""
 
 
