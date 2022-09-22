@@ -7,7 +7,7 @@ from random import choice
 
 """ To have an infinity loop and each time you close the matplotlib
 window another is created you can comment (the last three lines), but be aware
-that in order to stop the loop you have to kill the code yourself..."""
+that in order to stop the loop you have to kill the code yourself."""
 
 
 class RandomWalk:
