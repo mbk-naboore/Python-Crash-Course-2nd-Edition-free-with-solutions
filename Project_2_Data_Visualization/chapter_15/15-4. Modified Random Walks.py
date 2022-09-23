@@ -64,5 +64,6 @@ ax.get_xaxis().set_visible(False)
 ax.get_yaxis().set_visible(False)
 plt.show()
 
+# try to play around with the numbers, colors and sizes...see what will change and how it will affect the overall shape...
 
 
