@@ -37,3 +37,26 @@ class RandomWalk:
 
             self.x_values.append(x)
             self.y_values.append(y)
+
+
+import matplotlib.pyplot as plt
+# Make a random walk.
+rw = RandomWalk(5000)
+rw.fill_walk()
+
+# Plot the points in the walk.
+plt.style.use('dark_background')
+fig, ax = plt.subplots(figsize=(15,15),dpi=100)
+point_numbers = range(rw.num_points)
+ax.plot(rw.x_values, rw.y_values, linewidth=1, c="pink")
+
+# Emphasize the first and last points.
+ax.scatter(rw.x_values[0], rw.y_values[0], c='green')
+ax.scatter(rw.x_values[-1], rw.y_values[-1], c='red')
+
+# Remove the axes.
+ax.get_xaxis().set_visible(False)
+ax.get_yaxis().set_visible(False)
+
+plt.show()
+
